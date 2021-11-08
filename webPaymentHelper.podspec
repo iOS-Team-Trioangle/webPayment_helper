@@ -16,7 +16,7 @@ Pod::Spec.new do |spec|
   #
 
   spec.name         = "webPaymentHelper"
-  spec.version      = "0.0.1"
+  spec.version      = "0.1.0"
   spec.summary      = "A short of webPayment_helper.podspec."
 
   # This description is used to generate tags and improve search results.
@@ -56,9 +56,9 @@ A short of webPayment_helper.podspec.
   #
 
   spec.author             = { "iOS" => "ios@trioangle.com" }
-  # Or just: spec.author    = "suruthi"
-  # spec.authors            = { "suruthi" => "suruthi@gmail.com" }
-  # spec.social_media_url   = "https://twitter.com/suruthi"
+  # Or just: spec.author    = "sivasonai"
+  # spec.authors            = { "sivasonai" => "sivasonai@gmail.com" }
+  # spec.social_media_url   = "https://twitter.com/sivasonai"
 
   # ――― Platform Specifics ――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
   #
@@ -94,7 +94,7 @@ A short of webPayment_helper.podspec.
   #  Not including the public_header_files will make all headers public.
   #
 
-  spec.source_files  = "webPaymentHelper/**/*.{h,m,swift}"
+    spec.source_files  = "webPaymentHelper/**/*.{h,m,swift}"
   # spec.exclude_files = "Classes/Exclude"
 
   # spec.public_header_files = "Classes/**/*.h"
